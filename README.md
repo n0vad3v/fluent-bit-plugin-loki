@@ -17,7 +17,7 @@ This repo will provide the following images:
 * `n0vad3v/fluent-bit-plugin-loki:main`
 * `n0vad3v/fluent-bit-plugin-loki:main-<hash>` (e,g: `n0vad3v/fluent-bit-plugin-loki:main-dd72005`)
 * `ghcr.io/n0vad3v/fluent-bit-plugin-loki:main`
-* `ghcr.io/n0vad3v/fluent-bit-plugin-loki:main-<hash> ` (e,g: `ghcr.io/n0vad3v/fluent-bit-plugin-loki:main-dd72005`)
+* `ghcr.io/n0vad3v/fluent-bit-plugin-loki:main-<hash>` (e,g: `ghcr.io/n0vad3v/fluent-bit-plugin-loki:main-dd72005`)
 
 Of course all of them are Multi-Arch.
 
