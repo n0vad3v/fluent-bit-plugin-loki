@@ -23,4 +23,4 @@ Of course all of them are Multi-Arch.
 
 ![](./image.png)
 
-Enjoy~
+Enjoy!
